@@ -1,0 +1,13 @@
+C:\Users\turne\Documents\TrueCoders\repos\FactoryPatternEx\bin\Debug\netcoreapp3.1\FactoryPatternEx.exe
+C:\Users\turne\Documents\TrueCoders\repos\FactoryPatternEx\bin\Debug\netcoreapp3.1\FactoryPatternEx.deps.json
+C:\Users\turne\Documents\TrueCoders\repos\FactoryPatternEx\bin\Debug\netcoreapp3.1\FactoryPatternEx.runtimeconfig.json
+C:\Users\turne\Documents\TrueCoders\repos\FactoryPatternEx\bin\Debug\netcoreapp3.1\FactoryPatternEx.runtimeconfig.dev.json
+C:\Users\turne\Documents\TrueCoders\repos\FactoryPatternEx\bin\Debug\netcoreapp3.1\FactoryPatternEx.dll
+C:\Users\turne\Documents\TrueCoders\repos\FactoryPatternEx\bin\Debug\netcoreapp3.1\FactoryPatternEx.pdb
+C:\Users\turne\Documents\TrueCoders\repos\FactoryPatternEx\obj\Debug\netcoreapp3.1\FactoryPatternEx.csprojAssemblyReference.cache
+C:\Users\turne\Documents\TrueCoders\repos\FactoryPatternEx\obj\Debug\netcoreapp3.1\FactoryPatternEx.AssemblyInfoInputs.cache
+C:\Users\turne\Documents\TrueCoders\repos\FactoryPatternEx\obj\Debug\netcoreapp3.1\FactoryPatternEx.AssemblyInfo.cs
+C:\Users\turne\Documents\TrueCoders\repos\FactoryPatternEx\obj\Debug\netcoreapp3.1\FactoryPatternEx.csproj.CoreCompileInputs.cache
+C:\Users\turne\Documents\TrueCoders\repos\FactoryPatternEx\obj\Debug\netcoreapp3.1\FactoryPatternEx.dll
+C:\Users\turne\Documents\TrueCoders\repos\FactoryPatternEx\obj\Debug\netcoreapp3.1\FactoryPatternEx.pdb
+C:\Users\turne\Documents\TrueCoders\repos\FactoryPatternEx\obj\Debug\netcoreapp3.1\FactoryPatternEx.genruntimeconfig.cache
